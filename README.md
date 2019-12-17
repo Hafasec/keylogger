@@ -11,3 +11,5 @@ In order to send/receive e-mails from a non-trused app it is required to enable 
 https://myaccount.google.com/lesssecureapps
 ```
 After enabling that function and running simple_keylogger.py using one empty e-mail is going to be sent to the specified e-mail acount - this is a sign that the script is running.
+
+<img src="https://github.com/Hafasec/keylogger/blob/master/Screenshot_2019-12-17%20(brak%20tematu)%20-%20throawawayfortestingxxx%20gmail%20com%20-%20Gmail.png">
